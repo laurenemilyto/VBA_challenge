@@ -18,5 +18,4 @@ This VBA script analyzes stock market data from 2014 - 2016. The script loops th
   * Returns the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume" across all years. 
 
 ## How to Use This Project
-Use the VBA script in the repository to run on Multi Year stock data. The script will take about five minutes to a half an hour to run, depending on the size of the dataset.  
-See screen shots for each year of results on Multi Year Stock Data within the repository.
+Use the VBA script in the repository to run on Multi Year stock data. The script will take about five minutes to half an hour to run, depending on the size of the dataset. See screen shots for each year of results on Multi Year Stock Data within the repository.
