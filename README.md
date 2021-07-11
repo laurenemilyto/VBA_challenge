@@ -3,7 +3,7 @@
 ![stock Market](Images/stockmarket.jpg)
 
 ## Description
-This VBA script analyzes stock market data from 2014 - 2016. The script loops through stocks for one year and outputs the following information:
+Used VBA scripting to analyze stock market data from 2014 - 2016. The script loops through stocks for one year and outputs the following information:
 
   * The ticker symbol.
 
