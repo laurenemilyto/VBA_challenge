@@ -1,6 +1,6 @@
 # Multiple Year Stock Data Analysis - VBA Script
 
-![stock Market](Images/Stock_Data_2016.png)
+![stock Market](VBA_challenge/Stock_Data_2016.png)
 
 ## Description
 Used VBA scripting to analyze stock market data from 2014 - 2016. The script loops through stocks for one year and outputs the following information:
